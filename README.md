@@ -1,16 +1,39 @@
-## Hi there 👋
+# Mohammad Zehniyan
 
-<!--
-**mohammad-zehniyan/mohammad-zehniyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Undergraduate | Research Intern | Medical AI**
 
-Here are some ideas to get you started:
+Computer Science undergraduate at **Northwestern Polytechnical University (NPU), China**, with a growing research focus on deep learning, computer vision, and medical image analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My research training involves studying and reproducing published deep learning methods, particularly for medical image segmentation. I am interested in understanding model behavior, evaluating experimental results, and improving the reliability of AI-based medical image analysis.
+
+I am currently developing my technical and research skills, with the goal of pursuing graduate studies and contributing to meaningful research in medical AI.
+
+---
+
+### Research Interests
+
+- Medical Image Analysis & Segmentation
+- Deep Learning & Computer Vision
+- Model Evaluation & Reliability
+- Research Reproducibility
+
+### Technical Background
+
+**Programming:** Python, C++
+
+**Deep Learning:** PyTorch
+
+**Development Tools:** Git, GitHub
+
+I am continuing to strengthen my practical experience with these tools through research training and implementation projects.
+
+### Current Focus
+
+- Studying and implementing deep learning methods for medical image analysis
+- Developing stronger experimental evaluation and reproducibility practices
+- Expanding my knowledge of PyTorch and computer vision
+- Building a documented portfolio of research and technical projects
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/mohammad-zehniyan)
